@@ -1,0 +1,9 @@
+beautifulsoup4==4.11.1
+diagrams==0.21.1
+ipython==8.5.0
+openai==0.23.0
+pandas==1.4.3
+plotly==5.10.0
+rich==12.5.1
+Scrapy==2.6.2
+tqdm==4.64.0
